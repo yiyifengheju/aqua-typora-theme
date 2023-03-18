@@ -16,7 +16,7 @@
 
 3. DrakeMeterial
 
-<img src="./img/DrakeMeterial.webp">
+<img src="./img/DrakeMaterial.webp">
 
 4. Notion
 
